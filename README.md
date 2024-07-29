@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @BronnyWang
+- 👋 Hi, I’m Bronny
 - 👀 I’m a Cyber Security Engineer
